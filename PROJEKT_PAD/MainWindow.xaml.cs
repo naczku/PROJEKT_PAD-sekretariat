@@ -29,5 +29,10 @@ namespace PROJEKT_PAD
         {
 
         }
+
+        private void TabControl_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
